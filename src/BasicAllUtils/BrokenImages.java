@@ -36,7 +36,7 @@ public class BrokenImages {
 	ExtentSparkReporter spark=new ExtentSparkReporter("./ExtentReports/index.html");
 	spark.config().setDocumentTitle("MyFirstProjectReports");
 	spark.config().setReportName("MyFirstExtentReports");
-	
+	// for fi	adfadf
 	extend=new ExtentReports();
 	extend.attachReporter(spark);
 	
