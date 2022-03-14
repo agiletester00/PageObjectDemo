@@ -17,12 +17,6 @@ public class TestDemo {
 		System.out.println("Test2");
 	}
 	
-	@Test
-	public void Testde2()
-	{
-		System.out.println("Test3");
-	}
-	
 	
 	
 	
